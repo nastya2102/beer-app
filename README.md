@@ -1,6 +1,6 @@
 # Beer test task
 
-Demo: https://nastya2102.github.io/beer_test/
+Demo: https://test-tast-beer.herokuapp.com/
 
 ## Stack Technologies
 
